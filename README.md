@@ -1,3 +1,3 @@
 # Sistema-pedagio
-## Aluno: Ricardo Calderam Zanandrea
+## Alunos: Ricardo Calderam Zanandrea (1136748), Bento Martins (1125095), Gabriel Rico (1136215).
 
